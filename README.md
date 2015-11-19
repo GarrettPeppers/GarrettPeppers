@@ -1,2 +1,2 @@
 # GarrettPeppers
-Garrett Peppers just made this repository
+This is Garrett Peppers' repository and not yours.
